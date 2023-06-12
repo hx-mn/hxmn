@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+It's me. And I'm:
+- Software Engineer
+- TechLead
+
 <!--
 **hxmn/hxmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
